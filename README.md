@@ -1,4 +1,4 @@
-https://github.com/laurentpertois/Mojave-Compatibility-Checker
+
 
 
 # Mojave-Compatibility-Checker
