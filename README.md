@@ -1,3 +1,6 @@
+https://github.com/laurentpertois/Mojave-Compatibility-Checker
+
+
 # Mojave-Compatibility-Checker
 
 This script was designed to be used as an Extension Attribute on Jamf Pro server to ensure specific requirements have been met to deploy macOS Mojave. With little modification it can probably be used on other systems (Jamf Pro server requires the output of an Extension Attribute to be `echo "<result>$FOO</result>`).
